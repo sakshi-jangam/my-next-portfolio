@@ -21,10 +21,10 @@ export default function Home() {
       >
         <div className="text-center p-8 bg-white dark:bg-gray-900 shadow-lg rounded-lg max-w-xl mx-auto">
           <h1 className="text-4xl font-semibold text-gray-800 dark:text-white mb-4">
-            Hi, I'm Sakshi Jangam
+          Hi, I&apos;m Sakshi Jangam
           </h1>
           <p className="text-lg text-gray-600 dark:text-gray-300 mb-6">
-            "I'm a passionate web developer and the GDGC (Google Developer Group) Campus Lead at ADCET. With expertise in cloud computing, full-stack development, and AI, I am committed to driving innovation and empowering fellow developers through collaboration and cutting-edge technologies."
+          &quot;I&apos;m a passionate web developer and the GDGC (Google Developer Group) Campus Lead at ADCET. With expertise in cloud computing, full-stack development, and AI, I am committed to driving innovation and empowering fellow developers through collaboration and cutting-edge technologies.&quot;
           </p>
           <Link href="https://www.linkedin.com/in/sakshi-jangam-31a173244/" passHref>
             <Button variant="outline" className="text-blue-600 border-blue-600 hover:bg-blue-600 hover:text-white">
